@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,39 +6,46 @@
 }
 
 
-.page1{
+.page1 {
     background-image: url(https://lncimg.lance.com.br/cdn-cgi/image/width=auto,height=auto,quality=75,format=webp/uploads/2023/01/18/63c8b02655bb7.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color: pink;
-    font-size: 10rem;
+    font-size: 5rem;
 }
-.page2{
-background-image: url(https://bolavip.com/__export/1664914384983/sites/bolavip/img/2022/10/04/agif22090415585899.jpg_1159711837.jpg);
+
+.page2 {
+    background-image: url(https://bolavip.com/__export/1664914384983/sites/bolavip/img/2022/10/04/agif22090415585899.jpg_1159711837.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
     color: pink;
-    font-size: 10rem;
+    font-size: 5rem;
 }
-.page3{
+
+.page3 {
     background-image: url(https://stcotvfoco.com.br/2023/08/RogerGuedesFotoDivulgacao-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
     color: pink;
-    font-size: 10rem;
-}
-.page4{
-    background-image: url(https://i.pinimg.com/originals/01/8b/8b/018b8b325b58972a166b1a3a968ab230.gif);
- background-repeat: no-repeat;
-background-size: cover;
+    font-size: 5rem;
 }
 
-.page5{
+.page4 {
+    background-image: url(https://i.pinimg.com/originals/01/8b/8b/018b8b325b58972a166b1a3a968ab230.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: pink;
+    font-size: 5rem;
+}
+
+.page5 {
     background-image: url(https://cdn.meutimao.com.br/_upload/noticia/2022/09/28/cassio-falou-sobre-proxima-rodada-do-brasileirao-to.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: pink;
+    font-size: 5rem;
 }
 
 
